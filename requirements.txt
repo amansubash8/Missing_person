@@ -1,4 +1,4 @@
-#download the trained model weights and update the code ; where model_path = path_to_the_weights_file
+#download the trained model weights and update the code ; where self.model = YOLO('/Users/amansubash/Downloads/missing.pt')
 
 opencv-python
 numpy
